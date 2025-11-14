@@ -6,6 +6,19 @@ This project analyses customer reviews for a large, low-cost, high-volume fitnes
 
 The analysis leverages NLP techniques, topic modelling, and emotion analysis to convert unstructured text data into actionable insights, focusing on negative reviews to identify recurring pain points and operational risks.
 
+## Executive Summary 
+
+Primary metrics:
+	•	Negative reviews isolated: ~X% of total reviews
+	•	Top 3 recurring complaint areas: Equipment, Staff, Facilities
+	•	Top locations with the most negative reviews identified
+
+Core findings:
+	•	BERTopic modelling revealed ten key topics, consolidating into operational themes: cleanliness, staff interactions, equipment availability, and environmental comfort.
+	•	Emotion analysis showed anger primarily linked to immediate environmental failures, highlighting real-time facility management as critical.
+	•	Large Language Model analysis further refined topics into actionable categories, surfacing high-priority operational risks such as staff misconduct and facility maintenance failures.
+	•	Gensim LDA validation confirmed the dominance of equipment, staff, and facility concerns, providing statistical confidence for prioritisation.
+
 ## Recommendations 
 
 Prioritise hygiene and facility maintenance at high-volume locations.
