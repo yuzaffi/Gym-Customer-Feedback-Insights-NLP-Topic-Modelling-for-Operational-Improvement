@@ -43,8 +43,6 @@ The analysis covers reviews from multiple platforms, consolidates location-level
 
 **Insight:** Negative feedback is consistent across platforms, highlighting recurring operational concerns.
 
-<img width="452" height="242" alt="image" src="https://github.com/user-attachments/assets/6df7d74e-9d41-4760-b579-2b87a25603c6" />
-
 ---
 
 ## Topic Modelling with BERTopic
@@ -167,7 +165,8 @@ The analysis covers reviews from multiple platforms, consolidates location-level
 - Confirmed BERTopic findings with clear thematic separation  
 - Top recurring terms: Equipment (~1400 mentions), Staff (~1200 mentions)
   
-<img width="3220" height="2480" alt="outputframe" src="https://github.com/user-attachments/assets/9f8e1404-1f3f-4a36-9dda-354345637ca4" />
+<img width="903" height="571" alt="Screenshot 2025-11-30 at 12 06 43" src="https://github.com/user-attachments/assets/818422d9-e583-4100-b9da-26d6628ca5d8" />
+
 
 **Insight:** Dual-method approach strengthens confidence in core pain points and validates that equipment, staff, and facilities are central operational concerns.
 
