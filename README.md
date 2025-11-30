@@ -170,7 +170,7 @@ The analysis consolidates location-level feedback, with a focus on **negative re
 
 ---
 
-**Key Takeaways**
+## Key Takeaways
 
 - Negative reviews consistently emphasise staff, equipment, and facilities  
 - Emotion analysis highlights urgency of environmental and operational management  
