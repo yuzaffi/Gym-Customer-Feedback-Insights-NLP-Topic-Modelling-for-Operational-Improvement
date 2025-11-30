@@ -94,7 +94,7 @@ The analysis consolidates location-level feedback, with a focus on **negative re
 
 ---
 
-## Large Language Model Analysis (Prompt-Engineered Insights)
+## LLM Prompt-Engineered Insights (Phi-4-Mini-Instruct)
 
 - Used an efficient LLM to process extracted topics and generate actionable insights  
 - Applied prompt engineering to compress topic arrays into high-level recommendations [ADD IMAGE OF LLM INSIGHTS]  
