@@ -158,7 +158,7 @@ The analysis consolidates location-level feedback, with a focus on **negative re
 
 ---
 
-## Recommendations
+## 📌 Recommendations
 
 - **Operational Focus:** Prioritise interventions on equipment availability, staff training, and facility maintenance ⚡  
 - **Environmental Management:** Implement real-time monitoring to address immediate environmental failures (showers, temperature, cleanliness) ✅  
